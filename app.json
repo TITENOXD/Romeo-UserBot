@@ -5,31 +5,31 @@
     "repository": "https://github.com/TITENOXD/Romeo-UserBot",
   "stack": "container",
     "env": {
-        "STRING_SESSION": {
+        "STRING_SESSION": {BQC86fAABW9UeHjD7aTGIzxQQ34YAvEQBZtwHk_ybwsM4egD-xibb6CuhgfpYIxBIyVyfQTKv1vrIbXdJ_bHdmuzJJWiipHPLxa59CLFbS1hTPuEixf7NicFGWVTCInXK2iKZ5dVkv0CuaaVmNRYp9JZ4-Tl2lsN6KgwaP5t48RADxfWLDy6EnRorl6lDieTvSMWU0_sYjSICC3ts2N6OP782ir1YOXwDf0aiDTs7evKd0SaHr3FPy-M0Mu-05KXC5HbP4T-76YFB6ln5cNCRmCmU53KJZLuxC6Q41OvYRQsk4DXX0whjWaTKTHgsJXP97eUOnTjRgRBgBOI7JipYXFU1GxYywAAAAGuq1H_AA}
             "description": "fill with the telethon session string from @RJssgBot",
             "required": true
         },
-        "SUDO_USERS": {
+        "SUDO_USERS": {7225430527}
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
             "value": "7191949949"
         },
-        "OWNER_ID": {
+        "OWNER_ID": {7225430527}
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
             "value": "7191949949"
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {7578552630:AAE4Ee7EDYngoJOccYs0wU2wHSV8v0E6Tt0}
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
             "value": ""
         },
-        "API_ID": {
+        "API_ID": {12380656}
             "description": "Fill there your API_ID",
             "required": true,
             "value": ""
         },
-        "API_HASH": {
+        "API_HASH": {d927c13beaaf5110f25c505b7c071273}
             "description": "Fill there your API_HASH",
             "required": true,
             "value": "" 
